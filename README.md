@@ -1,5 +1,5 @@
 # 🧪 DecodeLabs Internship — Data Analytics
-**Intern:** Zain Mughal
+**Intern:** Muhammad Zain Shoukat
 **Batch:** 2026
 **Company:** DecodeLabs, Greater Lucknow, India
 
