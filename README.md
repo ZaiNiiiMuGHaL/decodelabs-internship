@@ -32,3 +32,28 @@ Clean a raw dataset by handling missing values, duplicates, and incorrect data f
 - Total Rows: 1200
 - Total Columns: 14
 - Final Status: ✅ CLEAN — Ready for Analysis
+
+
+---
+
+## 📁 Project 2 — Exploratory Data Analysis (EDA)
+
+### 🎯 Goal
+Analyze the cleaned dataset to uncover patterns, trends and outliers.
+
+### 🛠 Tools Used
+- Python 3
+- Pandas Library
+- FPDF2 Library
+
+### 🔍 Key Findings
+- Average order value: 1053.97 (Right Skewed Data)
+- Top selling product: Printer (181 orders)
+- 41% orders cancelled/returned — major business risk!
+- Instagram is #1 traffic source
+- 8 high-value outlier orders detected
+- UnitPrice is strongest revenue driver (0.72 correlation)
+
+### 📦 Files
+- `eda.py` — EDA Python script
+- `EDA_Report.pdf` — Business insights report
