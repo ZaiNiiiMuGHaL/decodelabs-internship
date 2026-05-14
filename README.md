@@ -57,3 +57,33 @@ Analyze the cleaned dataset to uncover patterns, trends and outliers.
 ### 📦 Files
 - `eda.py` — EDA Python script
 - `EDA_Report.pdf` — Business insights report
+
+---
+
+## 📁 Project 3 — SQL Data Analysis
+
+### 🎯 Goal
+Use SQL queries to extract business insights from the cleaned dataset.
+
+### 🛠 Tools Used
+- Python 3
+- SQLite3
+- Pandas
+
+### 🔍 Key SQL Queries
+- SELECT with LIMIT
+- WHERE for filtering
+- ORDER BY for sorting
+- GROUP BY with COUNT, SUM, AVG
+
+### 💡 Key Findings
+- Chair earns highest revenue (₹195,620) — surprise winner!
+- Printer has most orders (181) but NOT highest revenue
+- Credit Card customers spend most (₹1127 avg)
+- Chair has most cancellations (45) — urgent investigation needed!
+- Only 231/1200 orders successfully delivered!
+
+### 📦 Files
+- `sql_analysis.py` — SQL queries script
+- `SQL_Report.pdf` — Business insights report
+- `orders.db` — SQLite database
